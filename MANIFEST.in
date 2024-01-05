@@ -1,7 +1,5 @@
-recursive-include lib *
-recursive-include examples *
-include LICENSE
-include changelog.md
-exclude examples/metastats/.env
-prune examples/metastats/.metaapi
-
+graft lib examples
+include LICENSE changelog.md
+exclude .gitlab-ci.yml development.md examples/**/.env
+prune examples/**/.metaapi
+global-exclude .DS_Store
