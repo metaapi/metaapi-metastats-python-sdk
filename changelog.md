@@ -1,3 +1,6 @@
+4.0.1
+  - fix broken release
+
 4.0.0
   - breaking change: change modules naming method
   - breaking change: migrate to Python 3.8
