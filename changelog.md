@@ -1,3 +1,6 @@
+5.0.0
+  - breaking change: update httpx dependency to 0.27.0
+
 4.0.1
   - fix broken release
 
