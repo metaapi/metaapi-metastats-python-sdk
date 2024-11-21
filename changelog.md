@@ -1,3 +1,7 @@
+5.0.1
+  - updated config file
+  - expanded dependency range
+
 5.0.0
   - breaking change: update httpx dependency to 0.27.0
 
