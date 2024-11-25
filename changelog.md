@@ -1,3 +1,6 @@
+5.0.2
+  - fix config
+
 5.0.1
   - updated config file
   - expanded dependency range
