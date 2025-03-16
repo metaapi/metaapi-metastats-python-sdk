@@ -1,3 +1,7 @@
+5.1.0
+  - added `reset_metrics` API method
+  - updated docs
+
 5.0.2
   - fix config
 
